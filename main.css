@@ -1,0 +1,29 @@
+header {
+  background-color: #F7F26F;
+  text-align: center;
+}
+nav {
+  text-align: left;
+}
+
+h1 {
+  background-color: #F6EF42;
+  colour: black;
+}
+
+body {
+  background-color: #F7F4AC;
+}
+
+h2 {
+  text-indent: 100px;
+}
+
+h3 {
+  text-indent: 100px;
+}
+
+h4 {
+  text-indent: 250px;
+  font-size: 12px;
+}
